@@ -4,6 +4,7 @@
 
 This application features the ability to retrieve the DNS records of a valid domain ex. "leac.me" such as A/AAAA, MX, NS, TXT, etc.
 
+![index](https://user-images.githubusercontent.com/6654513/71701956-03295a80-2d8a-11ea-9ad4-c952790a211e.png)
 ![][image_screenshot]
 
 ## Application Compiling
